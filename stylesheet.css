@@ -8,14 +8,28 @@ body {
 }
 
 header{
+  position:relative;
   width:1100;
-  color:#ffffff;
+  height:150px;
+  color:#0e0e0e;
   font-size:30px;
-  background-color:black;
-  padding:0 0 0 100px;
+  background-color:white;
+  padding:0 0 0 200px;
+  border-bottom:5px solid black;
+ 
+
 }
 
+header img{
+  position:absolute;
+  height:100px;
+  top:0;
+  left:20px;
+
+
+}
 .main a{
+  
   color:black;
   font-size:30px;
   
