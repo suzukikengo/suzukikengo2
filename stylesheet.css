@@ -30,12 +30,19 @@ header{
 
 
 
-
-
-
-
-
-
-
 @media all and (max-width: 670px) {
+}
+
+header{
+  width:375;
+  color:#ffffff;
+  font-size:10px;
+  background-color:black;
+  padding:0 0 0 50px;
+}
+
+.main a{
+  color:black;
+  font-size:10px;
+  
 }
