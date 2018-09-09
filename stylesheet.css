@@ -31,8 +31,7 @@ header{
 
 
 @media all and (max-width: 670px) {
-}
-
+  
 header{
   width:375;
   color:#ffffff;
@@ -44,5 +43,5 @@ header{
 .main a{
   color:black;
   font-size:10px;
-  
+  }  
 }
