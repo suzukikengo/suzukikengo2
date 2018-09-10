@@ -34,16 +34,16 @@ header img{
   
 header{
   width:375;
-  height:55px;
+  height:60px;
   color:#000000;
   font-size:10px;
   background-color:white;
   border-bottom:5px solid black;
-  padding:2px 0 0 130px;
+  padding:2px 0 0 110px;
 }
 
 header h1{
-  padding:10 0 0 10px;
+  padding:12px 0 0 0;
 }
 
 .main a{
@@ -54,7 +54,7 @@ header h1{
   header img{
   position:absolute;
   height:40px;
-  top:9px;
-  left:20px; 
+  top:14px;
+  left:30px; 
 }
 }
