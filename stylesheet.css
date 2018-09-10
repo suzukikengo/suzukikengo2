@@ -17,6 +17,10 @@ body {
   padding:0 0 0 250px;
   border-bottom:5px solid black;
 }
+ .header1 h1{
+ text-align:center;
+ padding-top:40px;
+ }
 
 .header1 img{
   position:absolute;
@@ -35,6 +39,11 @@ body {
   padding:0 0 0 250px;
   border-bottom:5px solid black;
 }
+
+.header2 h1{
+ text-align:center;
+ padding-top:40px;
+ }
 
 .header2 img{
   position:absolute;
