@@ -47,8 +47,11 @@ header{
   font-size:10px;
   background-color:white;
   border-bottom:5px solid black;
- 
-  padding:0 0 0 105px;
+  padding:2px 0 0 130px;
+}
+
+header h1{
+  padding:10 0 0 10px;
 }
 
 .main a{
@@ -59,7 +62,7 @@ header{
   header img{
   position:absolute;
   height:40px;
-  top:0;
+  top:4px;
   left:20px; 
 }
 }
