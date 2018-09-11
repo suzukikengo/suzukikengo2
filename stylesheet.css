@@ -19,14 +19,14 @@ body {
 }
  .header1 h1{
  text-align:center;
- padding-top:40px;
+ padding-top:60px;
  }
 
 .header1 img{
   position:absolute;
   height:100px;
-  top:0;
-  left:20px;
+  top:40px;
+  left:40px;
 }
 
 .header2{
@@ -42,7 +42,7 @@ body {
 
 .header2 h1{
  text-align:center;
- padding-top:40px;
+ padding-top:55px;
  }
 
 .header2 img{
@@ -65,7 +65,7 @@ body {
 
 .header3 h1{
  text-align:center;
- padding-top:40px;
+ padding-top:55px;
  }
 
 .header3 img{
