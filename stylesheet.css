@@ -111,7 +111,14 @@ body {
   color:white;
 }
 
+.container h1{
+  padding:20px 0 0 0;
+  margin:0 0 0 0;
+}
 
+.container h2{
+  margin:0 0 0 0;
+}
 
 
 
@@ -206,14 +213,23 @@ body {
   left:30px; 
 }
   
-  
-
-.container{
-  width:3750;
+ .container{
+  width:375;
   height:70px;
   background-color:black;
   margin-top:40px;
   color:white;
+ }
+
+.container h1{
+ font-size:15px;
+ margin:0 0 0 8px;
+ padding:5px 0 0 0;
+}
+
+.container h2{
+ font-size:5px;
+ margin:0 0 0 10px;
 }
 
 }
