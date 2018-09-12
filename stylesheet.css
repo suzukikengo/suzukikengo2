@@ -98,12 +98,21 @@ body {
   left:40px;
 }
 
-
-
 .main a{
  color:black;
  font-size:30px;
 }
+
+.container{
+  width:1100;
+  height:150px;
+  background-color:black;
+  margin-top:40px;
+}
+
+
+
+
 
 @media all and (max-width: 670px) {
   
@@ -195,4 +204,14 @@ body {
   top:15px;
   left:30px; 
 }
+  
+  
+
+.container{
+  width:3750;
+  height:70px;
+  background-color:black;
+  margin-top:40px;
+}
+
 }
