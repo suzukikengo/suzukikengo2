@@ -18,8 +18,7 @@ body {
   border-bottom:5px solid black;
 }
  .header1 h1{
- text-align:center;
- padding-top:60px;
+  padding-top:60px;
  }
 
 .header1 img{
@@ -41,8 +40,7 @@ body {
 }
 
 .header2 h1{
- text-align:center;
- padding-top:55px;
+  padding-top:55px;
  }
 
 .header2 img{
@@ -64,8 +62,7 @@ body {
 }
 
 .header3 h1{
- text-align:center;
- padding-top:55px;
+  padding-top:55px;
  }
 
 .header3 img{
@@ -87,8 +84,7 @@ body {
 }
 
 .header4 h1{
- text-align:center;
- padding-top:55px;
+  padding-top:55px;
  }
 
 .header4 img{
@@ -119,7 +115,9 @@ body {
 .container h2{
   margin:0 0 0 0;
 }
-
+span{
+color:#800b0b;
+}
 
 
 @media all and (max-width: 670px) {
@@ -135,7 +133,7 @@ body {
 }
 
 .header1 h1{
-  padding:12px 0 0 0;
+  padding:12px 0 0 50px;
 }
 
 .main a{
@@ -161,7 +159,7 @@ body {
 }
 
 .header2 h1{
-  padding:19px 0 0 0;
+  padding:20px 0 0 50px;
 }
 
  .header2 img{
@@ -182,7 +180,7 @@ body {
 }
 
 .header3 h1{
-  padding:19px 0 0 0;
+  padding:20px 0 0 50px;
 }
 
  .header3 img{
@@ -203,7 +201,7 @@ body {
 }
 
 .header4 h1{
-  padding:19px 0 0 0;
+  padding:20px 0 0 50px;
 }
 
  .header4 img{
