@@ -94,6 +94,28 @@ body {
   left:40px;
 }
 
+.header5{
+  position:relative;
+  width:1100;
+  height:150px;
+  color:#0e0e0e;
+  font-size:30px;
+  background-color:white;
+  padding:0 0 0 250px;
+  border-bottom:5px solid black;
+}
+
+.header5 h1{
+  padding-top:55px;
+ }
+
+.header5 img{
+  position:absolute;
+  height:140px;
+  top:0;
+  left:40px;
+}
+
 .main a{
  color:black;
  font-size:30px;
@@ -210,6 +232,27 @@ color:#800b0b;
   top:15px;
   left:30px; 
 }
+  
+.header5{
+  width:375;
+  height:70px;
+  color:#000000;
+  font-size:14px;
+  background-color:white;
+  border-bottom:5px solid #23806c;
+  padding:2px 0 0 110px;
+}
+
+.header5 h1{
+  padding:10px 0 0 50px;
+}
+
+ .header5 img{
+  position:absolute;
+  height:50px;
+  top:15px;
+  left:30px; 
+}  
   
  .container{
   width:375;
