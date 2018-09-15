@@ -295,8 +295,23 @@ color:#800b0b;
   top:20px;
   left:20px; 
 }  
-   
-  .header6 img:hover{
+
+.header1 img:hover{
+  height:100px; 
+  }
+.header2 img:hover{
+   height:100px; 
+  }
+.header3 img:hover{
+   height:100px; 
+  }
+.header4 img:active{
+   height:100px; 
+  }
+.header5 img:active{
+   height:100px; 
+  }
+.header6 img:active{
    height:100px; 
   }
   
