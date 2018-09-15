@@ -186,6 +186,7 @@ color:#800b0b;
 
  .header1 img{
   position:absolute;
+  transition:all 3s;
   height:40px;
   top:14px;
   left:30px; 
@@ -207,6 +208,7 @@ color:#800b0b;
 
  .header2 img{
   position:absolute;
+  transition:all 3s;
   height:60px;
   top:4px;
   left:30px; 
@@ -228,6 +230,7 @@ color:#800b0b;
 
  .header3 img{
   position:absolute;
+  transition:all 3s;
   height:60px;
   top:4px;
   left:30px; 
@@ -249,6 +252,7 @@ color:#800b0b;
 
  .header4 img{
   position:absolute;
+  transition:all 3s;
   height:50px;
   top:15px;
   left:30px; 
@@ -270,12 +274,14 @@ color:#800b0b;
 
 .header5 img{
   position:absolute;
+  transition:all 3s;
   height:45px;
   top:20px;
   left:20px; 
 }
  
 .header6{
+
   width:375;
   height:70px;
   color:#000000;
@@ -291,28 +297,35 @@ color:#800b0b;
 
 .header6 img{
   position:absolute;
+  transition:all 3s;
   height:45px;
   top:20px;
-  left:20px; 
+  left:10px; 
 }  
 
 .header1 img:hover{
-  height:100px; 
+  height:100px;
+  left:150px;
   }
 .header2 img:hover{
-   height:100px; 
+   height:100px;
+   left:150px;
   }
 .header3 img:hover{
-   height:100px; 
+   height:100px;
+   left:150px; 
   }
-.header4 img:active{
-   height:100px; 
+.header4 img:hover{
+   height:100px;
+   left:150px; 
   }
-.header5 img:active{
-   height:100px; 
+.header5 img:hover{
+   height:100px;
+   left:150px;
   }
-.header6 img:active{
-   height:100px; 
+.header6 img:hover{
+   height:100px;
+   left:150px; 
   }
   
   
