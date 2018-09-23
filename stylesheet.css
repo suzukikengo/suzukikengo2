@@ -185,6 +185,9 @@ span{
 color:#800b0b;
 }
 
+span2{
+color:#2129bf;
+}
 
 
 
@@ -335,12 +338,13 @@ color:#800b0b;
   color:#000000;
   font-size:14px;
   background-color:white;
-  border-bottom:5px solid #6f4d2d;
+  border-bottom:5px solid #424419;
   padding:2px 0 0 110px;
 }
 
 .header7 h1{
-  padding:10px 0 0 10px;
+  padding:10px 0 0 40px;
+  font-family: "Comic Sans MS";
 }
 
 .header7 img{
