@@ -1,9 +1,8 @@
 
 $(function(){
 
-$('.test').fadeOut(1500);
+$('.test').fadeOut();
   
   
-  
-  
+   
 });
