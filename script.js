@@ -1,8 +1,8 @@
 
-$(function(){
 
-$('.test').fadeOut();
+
+$('.test').css('color','red');
   
   
    
-});
+
